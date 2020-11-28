@@ -1,0 +1,24 @@
+{
+  "name": "quality-theorem",
+  "version": "1.0.0",
+  "description": "my-college-project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NewProject"
+  },
+  "author": "Abhilasha's Team",
+  "license": "ISC"
+}
